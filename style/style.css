@@ -38,7 +38,8 @@ nav
   overflow: hidden;
   font-family: 'Merriweather', serif;
   float: right;
-  display: inline
+  display: inline;
+  color: #ff0099;
 }
 
 a:visited
